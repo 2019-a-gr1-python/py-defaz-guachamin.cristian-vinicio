@@ -1,0 +1,5 @@
+budweiser2;25.0;10;D
+club;22.0;5;D
+jack daniels;220.0;3;I
+heineken;40.0;6;I
+red label;234.0;4;I
