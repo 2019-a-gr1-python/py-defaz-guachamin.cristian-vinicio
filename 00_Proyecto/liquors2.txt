@@ -1,8 +1,9 @@
-club premiun;22.0;5;D
-hamstel;220.0;3;I
-zhumir;30.0;4;I
-heineken;40.0;6;I
-red label;234.0;4;I
+absolut vodka;22.0;5;I
+buchanans;60.0;3;I
+grants;30.0;4;I
+ron abuelo;40.0;6;I
+red label;35.0;4;I
 jack daniels;40.0;3;I
-tropico seco;23.0;5;D
+ron estelar;23.0;5;D
 ron castillo;20.0;8;D
+guaro;20.0;4;D
