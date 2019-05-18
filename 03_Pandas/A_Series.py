@@ -75,14 +75,86 @@ serie_valor_ciudad['Quito']=8750
 print("Lima" in serie_valor_ciudad) # False
 print("Loja" in serie_valor_ciudad) # True
 
+# Series compatibles con numpy
+np.square(serie_valor_ciudad)
+np.sin(serie_valor_ciudad)
 
+ciudades_uno = pd.Series({
+        'Quito':1500,
+        'Loja':4000,
+        'Guayaquil':2000
+        })
+ciudades_dos = pd.Series({
+        'Montañita':1500,
+        'Guayaquil':4000,
+        'Quito':2000
+        })
 
+print (ciudades_uno * ciudades_dos)
+# >> Solo multiplica los campos con el mismo índice
 
+# randómicos
+randomico = np.random.rand(3)
+serie_tres_rand = pd.Series(randomico)
+ciudades_uno.index
 
+# Concatenar series:
+    ### suma los valores
+ciudades_add = ciudades_dos.add(ciudades_uno)
+ciudades_add
 
+    ## concat
+ciudades_concat = pd.concat([ciudades_uno,ciudades_dos])
+ciudades_concat # --> Se repten los índices
 
+    ## concat sin repeticion de indices
+ciudades_concatv = pd.concat([ciudades_uno,ciudades_dos], verify_integrity= True)
+ciudades_concatv
 
+    ## append
+ciudades_append = ciudades_uno.append(ciudades_dos)
+ciudades_append
 
+# Agregar un nuevo índice con un nuevo valor a la serie
 
+# Minimo
+ciudades_uno.min()
+pd.Series.min(ciudades_uno)
+np.max(ciudades_uno) #Numpy
+# Maximo
+ciudades_uno.max()
+pd.Series.max(ciudades_uno) #Numpy
+np.max(ciudades_uno)
 
+# Estadísticas: Avg, Mean
+ciudades_uno.mean()
+ciudades_uno.median()
+np.average(ciudades_uno)
 
+# Primeros 5
+ciudades_uno.head(2)
+
+# Ultimos 5
+ciudades_uno.tail(2)
+
+ciudades_uno.sort_values(ascending = False).head(2) # los dos máximos
+ciudades_uno.sort_values(descending = False).tail(2) # los 2 mínimos
+
+# Operaciones combinadas
+# 0 >= 1000 -> 5%
+# Con map:
+def calculo(valor):
+    if(valor <= 1000):
+        return valor *1.05
+    if(valor > 1000 and valor <= 10000):
+        return valor *1.1
+    if(valor > 10000):
+        return valor *1.15
+ciudades_uno.map(calculo)
+
+#Con where:
+# útil si existe solo una funcion
+# ciudad_uno.where(ciudades_uno > 1000, ciudades_uno * 1.05)
+
+# 1000 >= 10000 -> 10%
+# 1000 >  -> 15%
