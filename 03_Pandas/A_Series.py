@@ -138,7 +138,7 @@ ciudades_uno.head(2)
 ciudades_uno.tail(2)
 
 ciudades_uno.sort_values(ascending = False).head(2) # los dos máximos
-ciudades_uno.sort_values(descending = False).tail(2) # los 2 mínimos
+ciudades_uno.sort_values(ascending = False).tail(2) # los 2 mínimos
 
 # Operaciones combinadas
 # 0 >= 1000 -> 5%

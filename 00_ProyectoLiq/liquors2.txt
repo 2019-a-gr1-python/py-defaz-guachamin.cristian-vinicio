@@ -7,3 +7,4 @@ jack daniels;40.0;3;I
 ron estelar;23.0;5;D
 ron castillo;20.0;8;D
 guaro;20.0;4;D
+Cristal Seco;34.5;5;I
