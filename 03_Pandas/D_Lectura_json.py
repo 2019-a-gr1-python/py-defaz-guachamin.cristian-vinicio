@@ -19,6 +19,9 @@ llaves = ['id','all_artist','title','medium',
           'height','width','units']
 registro = [[1,2,3,4,4,5,56,7,8,9,0]]
 
+#%%
+
+
 with open(path_archivo) as text_json:
     contenido_json = json.load(text_json)
     print(contenido_json)
