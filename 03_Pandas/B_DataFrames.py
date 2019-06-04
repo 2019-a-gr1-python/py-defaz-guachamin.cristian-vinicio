@@ -19,14 +19,12 @@ df1 = pd.DataFrame(
         index=['Criss','Vinicio']
         )
 
-
-
 df2 = pd.DataFrame(
         arr_rand
         )
-# Colocar columnas eindices
-df2.columns = ['Estatura (cm)','Peso (gr)','Edad (anios)']
-df2.index = ['Criss','Vinicio']
+# Colocar columnas e indices
+df2.columns = ['Estatura (cm)', 'Peso (gr)', 'Edad (anios)']
+df2.index = ['Criss', 'Vinicio']
 
 df3 = pd.DataFrame(
         arr_rand

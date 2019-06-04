@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 path = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/artwork'
 archivo = '/a/000/a00001-1035.json'
@@ -13,5 +14,8 @@ artistas = pd.unique(serie_artistas_duplicados)
 print(artistas.size())
 print(len(artistas))
 
-blake = df_completo_pickle['artist'] == 'Bñake, William'
+blake = df_completo_pickle['artist'] == 'Blake, William'
 print(df_completo_pickle[blake])
+
+arr = np.array([1, 2, 3])
+arr2 = arr.reshape()

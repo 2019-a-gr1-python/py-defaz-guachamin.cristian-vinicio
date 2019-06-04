@@ -4,6 +4,9 @@ Created on Sat May 18 09:15:57 2019
 
 @author: LeAdm
 """
+import numpy as np
+import pandas as pd
+
 print("Hola mundo !!")
 
 # Creando variables
@@ -13,14 +16,13 @@ edad = 25
 print(nombre)
 
 # Importando Numpy y Pandas
-import numpy as np
-import pandas as pd
 
-lista_numeros = [1,2,3,4]
+
+lista_numeros = [1, 2, 3, 4]
 numeros_serie = pd.Series(lista_numeros)
 # Creando tuplas y enviandolo al constructor de la serie
-tupla_numeros = (10,11,12,13)
-np_numeros = np.array((1,2,3,4))
+tupla_numeros = (10, 11, 12, 13)
+np_numeros = np.array((1, 2, 3, 4))
 
 numeros_serieb = pd.Series(tupla_numeros)
 numeros_seriec = pd.Series(np_numeros)
