@@ -8,7 +8,8 @@ import pandas as pd
 import numpy as np
 import math
 
-path_guardado = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/artwork_data.pickle'
+# path_guardado = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/artwork_data.pickle'
+path_guardado = '/Users/usrdel/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/artwork_data.pickle'
 df = pd.read_pickle(path_guardado)
 
 seccion_df = df.iloc[49980:50019,:].copy()
@@ -66,3 +67,29 @@ def transformar_df(df):
     return nuevo_df_transformado
     
 seccion_df_t = transformar_df(seccion_df)
+
+
+
+
+
+# agruoar por pickles
+df_agrupado_titulo = df.groupby('title')
+print(df_agrupado_titulo.size)
+
+serie_titulos = df_afrupado_titulo.size(
+        ).sort_values(ascending=False)
+
+df_filtrado = df.filter(itemms = ['artist','title'])
+
+condicion = lambda x: len(x.index) > 1
+
+df_titulos_dup = df_agrupado_titulo.filter(condicion)
+
+resultado = df_titulos_dup.sort_values('title', inplace=True)
+
+
+
+
+
+
+
