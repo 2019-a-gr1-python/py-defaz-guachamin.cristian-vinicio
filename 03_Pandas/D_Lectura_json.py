@@ -9,6 +9,7 @@ import os
 
 # %%
 path = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/artwork'
+pathMac = '/Users/usrdel/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/artwork'
 
 archivo = '/a/000/a00001-1035.json'
 
@@ -84,5 +85,6 @@ def leer_json_en_carpetas(directorio, llaves1):  # Leer json en carpetas
     )
     return df
 
+# %% Leer mùltiples json:
 
 df_artworks = leer_json_en_carpetas(path, llaves)

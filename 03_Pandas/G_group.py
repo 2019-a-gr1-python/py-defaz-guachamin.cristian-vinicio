@@ -7,6 +7,7 @@ import pandas as pd
 # %%
 path_guardado = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/artwork_data' \
                 '.pickle '
+path_guardado1 = '/Users/usrdel/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/artwork_data.pickle'
 df = pd.read_pickle(path_guardado)
 
 seccion_df = df.iloc[49980:50019, :].copy()
