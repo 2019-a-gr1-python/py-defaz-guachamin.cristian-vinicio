@@ -1,7 +1,5 @@
 import pandas as pd
-import os
 import sqlite3
-import numpy as np
 
 path_guardado = 'C:/Users/LeAdm/Documents/GitHub/py-defaz-guachamin.cristian-vinicio/03_Pandas/data/csv/' \
                 'artwork_data.pickle'
@@ -66,9 +64,3 @@ df.to_excel(writer1, sheet_name='Artistas por anio')
 hoja_anios = writer1.sheets['Artistas por anio']
 
 # Completar para el miercoles próximo::::
-
-
-
-
-
-

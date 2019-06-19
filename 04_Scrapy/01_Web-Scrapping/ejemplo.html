@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Scrapping</title>
+    <style>
+        /* Buscando por etiqueta */
+        h1 {
+            background-color: blue;
+        }
+
+        /* Buscando por identificador */
+        #principal{
+            background-color: green;
+        }
+
+        /* Buscando por clase */
+        .rojo{
+            background-color: red;
+        }
+
+        /* Búsqueda explícita:
+        Bucando por etiqueta y clase */
+        p.rojo {
+            background-color: yellow;
+        }
+
+        /* Buscar etiqueta rojo azul: */
+        p.rojo.azul{
+            background-color: greenyellow;
+        }
+
+        /* Buscar etiquetas dentro de otra etiqueta en una clase: */
+        /* Tarea: Hacer que los párrafos en morado de afuera no sean afectados por el estilo,
+        solo los páraffos dentro del div*/
+        p.morado{
+            background-color: rebeccapurple;
+        } /* Afecta a todos los morados*/
+
+        div > p.morado{
+            background-color: purple;
+        } /* Afecta solo a morados dentro del div */
+
+        /* Selector para aplicar un estilo solo a span morado blanco */
+        div > p.morado > span.blanco{
+            color: white;
+        }
+
+        /*
+        div.quote > div.tags > a.tag
+        */
+
+    </style>
+</head>
+<body>
+    <h1>h1 1</h1>
+    <h1 id = "principal">h1 2</h1>
+    <h1 class="rojo">h1 3</h1>
+
+    <p class="rojo">Párrafo rojo</p>
+    <p class="rojo azul">Párrafo normal</p>
+    <p class="verde">Párrafo verde</p>
+
+    <p class="morado">Morado afuera</p>
+    <p class="cafe">Cafe afuera</p>
+    <div>
+        <p class="morado">Morado</p>
+        <p class="morado">
+            <span class="blanco">Morado span blanco</span>
+            <span>Morado</span>
+        </p>
+        <p class="cafe">Cafe</p>
+    </div>
+
+</body>
+</html>
