@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/python_01/python_01/spiders/libros.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/misterio_fantasia.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/onu_agencias.txt" charset="windows-1252" />
   </component>
 </project>
