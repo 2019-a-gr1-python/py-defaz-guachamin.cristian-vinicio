@@ -11,22 +11,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/arania_books.py">
+        <entry file="file://$PROJECT_DIR$/python_csv/scrapy_03/scrapy_03/spiders/spider_csv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="-595">
+              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               <folding>
-                <element signature="e#1#45#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/misterio_fantasia.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -48,13 +39,15 @@
         <option value="$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/onu_agencias.txt" />
         <option value="$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/arania_onu.py" />
         <option value="$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/arania_books.py" />
+        <option value="$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/spider_item.py" />
+        <option value="$PROJECT_DIR$/python_csv/scrapy_03/scrapy_03/spiders/spider_csv.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
+    <option name="width" value="714" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectView">
@@ -62,7 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,33 +65,34 @@
             <path>
               <item name="02_Crawling" type="b2602c69:ProjectViewProjectNode" />
               <item name="02_Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02_followlink" type="462c0819:PsiDirectoryNode" />
+              <item name="python_csv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="02_Crawling" type="b2602c69:ProjectViewProjectNode" />
               <item name="02_Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02_followlink" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02" type="462c0819:PsiDirectoryNode" />
+              <item name="python_csv" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="02_Crawling" type="b2602c69:ProjectViewProjectNode" />
               <item name="02_Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02_followlink" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02" type="462c0819:PsiDirectoryNode" />
+              <item name="python_csv" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_03" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="02_Crawling" type="b2602c69:ProjectViewProjectNode" />
               <item name="02_Crawling" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02_followlink" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02" type="462c0819:PsiDirectoryNode" />
-              <item name="python_02" type="462c0819:PsiDirectoryNode" />
+              <item name="python_csv" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_03" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_03" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,16 +129,18 @@
       <workItem from="1561606821678" duration="1456000" />
       <workItem from="1561776228949" duration="8793000" />
       <workItem from="1561817183467" duration="7758000" />
+      <workItem from="1561845370852" duration="4949000" />
+      <workItem from="1562155878026" duration="6188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22433000" />
+    <option name="totallyTimeSpent" value="33570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19969743" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -161,7 +156,7 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49924356" visible="true" weight="0.4016529" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49924356" visible="true" weight="0.28099173" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -204,20 +199,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_01/python_01/spiders/intro_spider_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/onu_agencias.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/arania_onu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -228,19 +209,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/onu_agencias.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/misterio_fantasia.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="35" column="41" lean-forward="true" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        <state relative-caret-position="275">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_01/python_01/spiders/intro_spider_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/arania_books.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="492">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_02_followlink/python_02/python_02/spiders/spider_item.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_csv/scrapy_03/scrapy_03/spiders/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_csv/scrapy_03/scrapy_03/spiders/spider_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding>
-            <element signature="e#1#45#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

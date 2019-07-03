@@ -11,3 +11,7 @@ v
 Fpython_02_followlink/python_02/python_02/spiders/misterio_fantasia.txt,5\5\550ae3cf977c6e98ab672fe287a138d2a8bb3b85
 p
 @python_02_followlink/python_02/python_02/spiders/arania_books.py,9\f\9fd1cf5268881e67c964e482a1b37e55f835a626
+\
+,python_csv/scrapy_03/scrapy_03/spiders/a.txt,a\5\a5d076c408d9535a27fce21bea6224f18bde8fd4
+d
+4python_csv/scrapy_03/scrapy_03/spiders/spider_csv.py,a\d\ad89eaa616dfe361d39fb8319bf43d422a2d79dd
