@@ -17,15 +17,13 @@ class AraniaBooks(CrawlSpider):
         'category/books/fantasy_19'
     )
 
-    regla_dos = (
+    rules = (
         Rule(
             LinkExtractor(
                 allow_domains=allowed_domains,
                 allow=url_segmento_permitido
             ), callback='parse_page'),
     )
-
-    rules = regla_dos
 
     @staticmethod
     def parse_page(response):
