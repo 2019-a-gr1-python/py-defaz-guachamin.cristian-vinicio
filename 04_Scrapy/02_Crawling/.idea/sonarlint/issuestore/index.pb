@@ -15,3 +15,9 @@ p
 ,python_csv/scrapy_03/scrapy_03/spiders/a.txt,a\5\a5d076c408d9535a27fce21bea6224f18bde8fd4
 d
 4python_csv/scrapy_03/scrapy_03/spiders/spider_csv.py,a\d\ad89eaa616dfe361d39fb8319bf43d422a2d79dd
+h
+8python_csv/scrapy_03/scrapy_03/spiders/arania_fybeca1.py,0\5\05194f3a49bcb782ad56c456fcd543b8d94aa136
+e
+5python_csv/scrapy_03/scrapy_03/spiders/spider_item.py,d\b\dbbe2ce1e93262a946ae4c5d3b299a950fa7786b
+W
+'python_csv/scrapy_03/scrapy_03/items.py,3\2\321b36d5edc8561e43348d0b4dcd9336cf83b915
