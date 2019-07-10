@@ -21,3 +21,9 @@ e
 5python_csv/scrapy_03/scrapy_03/spiders/spider_item.py,d\b\dbbe2ce1e93262a946ae4c5d3b299a950fa7786b
 W
 'python_csv/scrapy_03/scrapy_03/items.py,3\2\321b36d5edc8561e43348d0b4dcd9336cf83b915
+[
++python_csv/scrapy_03/scrapy_03/pipelines.py,1\d\1dda46ecb5f7f30be1942e717c2e649d44b66c8b
+Z
+*python_csv/scrapy_03/scrapy_03/settings.py,d\8\d800e06b8e8565344c6af06d987bc7c2b29601e4
+h
+8python_csv/scrapy_03/scrapy_03/tmp/productos-fybeca.json,1\7\17b23db120d3bf985010aacd162e8cb05c0bee6f
