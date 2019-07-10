@@ -5,15 +5,17 @@ from scrapy.linkextractors import LinkExtractor
 from scrapy_03.items import ProductoFybeca
 
 
-
 class AraniaFybeca(CrawlSpider):
     name = 'crawl_fybeca1'  # Heredado (conservar nombre)
     allowed_domains = [  # Heredado (conservar nombre)
         'fybeca.com'
     ]
     start_urls = [  # Heredado (conservar nombre)
-
         'https://www.fybeca.com/FybecaWeb/pages/search-results.jsf?cat=238&s=0&pp=25'
+
+        # esults.jsf?s=25&pp=25&cat=238&b=-1&ot=0
+        # -results.jsf?s=50&pp=25&cat=238&b=-1&ot=0
+        # h-results.jsf?s=0&pp=25&cat=238&b=-1&ot=0
     ]
     # Heredado (conservar nombre)
     url_segmento_permitido = (
