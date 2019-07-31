@@ -1,0 +1,21 @@
+position,score,date_updated,bl,cpu_type,cpu_speed,cpus_phy,os,mainboard,ram,videocard
+1,11724.2,2019-01-23 00:43:33,1153002,Intel Core i9-9980XE @ 3.00GHz,3000,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG X299 CREATION (MS-7C06)",65.2 GB,GeForce RTX 2080 Ti
+2,10803.2,2018-12-23 05:29:47,1132628,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+3,10766.4,2019-05-19 09:29:40,1217587,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+4,10756.7,2019-05-20 06:12:02,1217919,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+5,10710.2,2019-07-13 19:22:29,1240389,Intel Core i9-9960X @ 3.10GHz,3096,1,Windows 10 Professional Edition build 15063 (64-bit),EVGA Corp. X299 DARK,65.2 GB,GeForce GTX 1080 Ti
+6,10597.2,2019-07-28 23:30:30,1247881,Intel Core i9-9960X @ 3.10GHz,3096,1,Windows 10 Professional Edition build 15063 (64-bit),EVGA Corp. X299 DARK,65.2 GB,GeForce GTX 1080 Ti
+7,10536.1,2019-07-20 11:04:37,1243595,Intel Core i9-9960X @ 3.10GHz,3096,1,Windows 10 Professional Edition build 15063 (64-bit),EVGA Corp. X299 DARK,65.2 GB,GeForce GTX 1080 Ti
+8,10511.2,2019-05-23 08:44:46,1219362,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+9,10489.0,2019-06-04 07:32:29,1224529,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17763 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+10,10480.2,2019-07-25 08:21:38,1246048,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 18362 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+11,10479.3,2019-04-24 14:33:12,1205515,Intel Core i7-8086K @ 4.00GHz,4008,1,Windows 10 build 17763 (64-bit),EVGA Corp. Z390 DARK,16.3 GB,GeForce GTX 1080 Ti
+12,10397.8,2019-05-16 07:48:33,1216162,Intel Core i9-7980XE @ 2.60GHz,2593,1,Windows 7 Professional Edition Service Pack 1 build 7601 (64-bit),ASUSTeK COMPUTER INC. ROG RAMPAGE VI APEX,32.4 GB,GeForce GTX 1080 Ti
+13,10322.4,2019-07-03 22:50:23,1235984,Intel Core i9-9960X @ 3.10GHz,3096,1,Windows 10 Professional Edition build 15063 (64-bit),"EVGA INTERNATIONAL CO.,LTD 151-SX-E299",65.2 GB,GeForce GTX 1080 Ti
+14,10288.8,2018-12-19 06:22:06,1130050,Intel Core i9-9900K @ 3.60GHz,3600,1,Windows 10 Professional Edition build 17134 (64-bit),"Micro-Star International Co., Ltd. MEG Z390 ACE (MS-7B12)",32.7 GB,GeForce RTX 2080 Ti
+15,10230.2,2019-04-13 20:38:55,1200397,Intel Core i9-7980XE @ 2.60GHz,2592,1,Windows 10 Professional Edition build 17763 (64-bit),ASUSTeK COMPUTER INC. ROG RAMPAGE VI EXTREME,65.2 GB,GeForce RTX 2080 Ti
+16,10219.7,2019-02-10 11:22:06,1164857,Intel Core i9-7980XE @ 2.60GHz,2592,1,Windows 7 Professional Edition Service Pack 1 build 7601 (64-bit),ASUSTeK COMPUTER INC. ROG RAMPAGE VI APEX,32.4 GB,GeForce GTX 1080 Ti
+17,10203.8,2018-11-15 06:43:07,1108583,Intel Core i7-8086K @ 4.00GHz,4008,1,Windows 10 Professional Edition build 17134 (64-bit),"Micro-Star International Co., Ltd. Z370 GAMING PRO CARBON AC (MS-7B45)",32.7 GB,GeForce RTX 2080 Ti
+18,10157.7,2019-07-02 20:55:39,1235557,Intel Core i9-9960X @ 3.10GHz,3096,1,Windows 10 Professional Edition build 15063 (64-bit),"EVGA INTERNATIONAL CO.,LTD 151-SX-E299",65.2 GB,GeForce GTX 1080 Ti
+19,10146.3,2018-05-29 21:49:46,1030644,Intel Core i9-7980XE @ 2.60GHz,2592,1,Windows 10 Professional Edition build 17134 (64-bit),ASUSTeK COMPUTER INC. ROG RAMPAGE VI EXTREME,65.2 GB,GeForce GTX 1080 Ti
+20,10136.9,2018-09-06 09:06:09,1072844,Intel Core i7-8086K @ 4.00GHz,4008,1,Windows 10 Professional Edition build 17134 (64-bit),"Micro-Star International Co., Ltd. Z370 GAMING PRO CARBON AC (MS-7B45)",32.7 GB,NVIDIA TITAN Xp
