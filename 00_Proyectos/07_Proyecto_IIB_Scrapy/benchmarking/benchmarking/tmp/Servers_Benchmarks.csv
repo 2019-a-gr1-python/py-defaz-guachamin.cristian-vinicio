@@ -1,0 +1,21 @@
+position,score,date_updated,bl,cpu_type,cpu_speed,cpus_phy,os,mainboard,ram,videocard
+1,9507.6,2019-03-24 05:22:32,1189962,Intel Xeon W-3175X @ 3.10GHz,3100,1,Windows 10 Professional Edition build 17763 (64-bit),ASUSTeK COMPUTER INC. ROG DOMINUS EXTREME,96.9 GB,GeForce RTX 2080 Ti
+2,7865.6,2019-04-03 01:24:51,1194968,Intel Xeon W-3175X @ 3.10GHz,3100,1,Windows 10 Professional Edition build 17763 (64-bit),ASUSTeK COMPUTER INC. ROG DOMINUS EXTREME,195.2 GB,GeForce RTX 2080
+3,7833.5,2019-03-09 12:30:24,1181294,Intel Xeon W-2145 @ 3.70GHz,3696,1,Windows Server 2016 build 17763 (64-bit),Supermicro X11SRA-F,196.3 GB,Radeon Pro WX 9100
+4,7549.7,2018-04-18 04:36:50,1011223,Intel Xeon W-2145 @ 3.70GHz,3696,1,Windows 10 Professional Edition build 16299 (64-bit),ASUSTeK COMPUTER INC. WS C422 PRO_SE,130.7 GB,Quadro P4000
+5,7516.0,2018-01-03 07:40:24,950668,Intel Xeon W-2135 @ 3.70GHz,3696,1,Windows 10 build 16299 (64-bit),Dell Inc. 0X8DXD,130.8 GB,Quadro P4000
+6,7504.4,2019-05-07 00:35:07,1211648,Intel Xeon E-2136 @ 3.30GHz,3312,1,Windows 10 Professional Edition build 17763 (64-bit),Dell Inc. 00CV7F,32.6 GB,Quadro P1000
+7,7466.3,2017-12-28 07:09:26,947010,Intel Xeon W-2135 @ 3.70GHz,3696,1,Windows 10 build 16299 (64-bit),Dell Inc. 0X8DXD,130.8 GB,Quadro P4000
+8,7464.2,2019-05-21 06:57:14,1218350,Intel Xeon E5-1680 v2 @ 3.00GHz,3000,1,Windows 10 Professional Edition build 17763 (64-bit),ASUSTeK COMPUTER INC. RAMPAGE IV FORMULA,16.3 GB,GeForce RTX 2080
+9,7401.4,2019-04-25 08:43:08,1205844,Intel Xeon E-2186G @ 3.80GHz,3792,1,Windows 10 build 17763 (64-bit),Dell Inc. 0NNNCT,32.6 GB,Quadro P4000
+10,7395.6,2019-01-13 15:21:50,1146965,Intel Xeon W-2145 @ 3.70GHz,3696,1,Windows 10 build 17763 (64-bit),Dell Inc. 0X8DXD,32.4 GB,Quadro P4000
+11,7360.3,2016-12-31 15:34:40,744029,Intel Xeon E5-1680 v3 @ 3.20GHz,3205,1,Windows 10 Professional Edition build 14393 (64-bit),ASUSTeK COMPUTER INC. X99-E WS/USB 3.1,131.0 GB,GeForce GTX TITAN X
+12,7330.9,2019-07-15 12:36:53,1241163,Intel Xeon W-2135 @ 3.70GHz,3696,1,Windows 10 build 18362 (64-bit),LENOVO 1036,32.4 GB,Quadro P5000
+13,7319.2,2017-10-28 19:51:34,913009,Intel Xeon E5-1680 v2 @ 3.00GHz,3813,1,Windows 10 Professional Edition build 15063 (64-bit),ASUSTeK COMPUTER INC. RAMPAGE IV BLACK EDITION,32.7 GB,GeForce GTX 1080 Ti
+14,7317.2,2019-04-12 03:57:34,1199460,Intel Xeon E-2186G @ 3.80GHz,3792,1,Windows 10 build 17763 (64-bit),Supermicro X11SCA,65.4 GB,Quadro P1000
+15,7299.0,2017-12-27 10:09:46,946465,Intel Xeon W-2135 @ 3.70GHz,3696,1,Windows 10 build 16299 (64-bit),Dell Inc. 0X8DXD,130.8 GB,Quadro P4000
+16,7284.5,2016-11-04 12:19:34,707401,Intel Xeon E5-1680 v2 @ 3.00GHz,3025,1,Windows 7 Professional Edition Service Pack 1 build 7601 (64-bit),ASRock X79 Extreme11,65.5 GB,Radeon R9 290 / 390
+17,7252.9,2019-04-23 06:27:32,1204853,Intel Xeon E-2186G @ 3.80GHz,3792,1,Windows 10 build 17763 (64-bit),Supermicro X11SCA,65.4 GB,Quadro P1000
+18,7249.1,2018-02-20 07:41:13,980526,Intel Xeon W-2135 @ 3.70GHz,3696,1,Windows 10 Professional Edition build 16299 (64-bit),LENOVO 1036,65.2 GB,GeForce GTX 1080
+19,7232.2,2018-01-29 09:01:49,967996,Intel Xeon W-2155 @ 3.30GHz,3312,1,Windows 10 build 16299 (64-bit),Dell Inc. 0X8DXD,65.2 GB,Quadro P4000
+20,7202.1,2019-02-01 13:24:22,1159226,Intel Xeon E-2136 @ 3.30GHz,3312,1,Windows 10 Professional Edition build 17763 (64-bit),Dell Inc. 00CV7F,16.2 GB,Quadro P1000
